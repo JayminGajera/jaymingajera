@@ -1,8 +1,8 @@
 ### Introduction
 
-👋 Hi, I’m Niyati Kaneriya from Gujarat, India.
+👋 Hi, I’m Jaymin Gajera from Gujarat, India.
 
-👀 I’m in my pre-final year of collage, I'm doing B.Tech. in Computer Engineering.
+👀 I'm doing B.Tech. in Computer Engineering.
 
 🌱 I’m currently learning Data Structures and web development along with some important core subjects.
 

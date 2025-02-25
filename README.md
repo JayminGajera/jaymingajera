@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Jaymin Gajera from Gujarat, India.
 
-👀 I'm doing B.Tech. in Computer Engineering.
+👀 Innovate. Build. Inspire.
 
 🌱 I’m MERN stack developer and good knowledge about core of computer engineering.
 
@@ -10,4 +10,3 @@
 
 📫 contect me in Linkedin -- https://www.linkedin.com/in/jaymingajera/
 
-💻 I do problem solving on leetcode, you can check it out -- https://leetcode.com/Gajera_jaymin/

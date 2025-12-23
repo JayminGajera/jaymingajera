@@ -8,8 +8,6 @@
 
 ⚙️ I enjoy solving real-world problems through clean and efficient code, and I’m passionate about building scalable web applications that make an impact.
 
-🌐 Portfolio: https://jaymin.technokari.com
-
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jaymingajera
 
 

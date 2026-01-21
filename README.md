@@ -13,8 +13,4 @@ React • Next.js • Node.js • TypeScript • Tailwind CSS • PostgreSQL •
 
 ✨ I believe in: shipping fast, writing clean code, and building things that actually work.
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jaymingajera
-
-🔗 Portfolio: https://jaymin-gajera.vercel.app
-
 

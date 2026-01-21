@@ -1,12 +1,17 @@
 ### Introduction
 
-👋 Hi, I’m Jaymin Gajera, a Software Engineer from Gujarat, India.
+# 👋 Hi, I'm Jaymin
 
-👀 Innovate. Build. Inspire.
+🚀 Full-Stack Developer focused on building clean, scalable, and high-quality web applications.
 
-💼 I’m a Software Engineer (SWE) with 2+ year of professional experience, specializing in the Full stack and strong fundamentals in computer engineering.
+I work mainly with **React, Next.js, Node.js**, and modern web tooling. I enjoy building products, improving UX, and solving real-world problems with simple and maintainable code.
 
-⚙️ I enjoy solving real-world problems through clean and efficient code, and I’m passionate about building scalable web applications that make an impact.
+Currently working in **AI-powered features, automation, and modern SaaS architectures**.
+
+🛠️ Tech Stack:  
+React • Next.js • Node.js • TypeScript • Tailwind CSS • PostgreSQL • MongoDB • Supabase • AWS
+
+✨ I believe in: shipping fast, writing clean code, and building things that actually work.
 
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jaymingajera
 
